@@ -4,8 +4,33 @@ system:
   repo-name: flathub
   repo-title: "Flathub (system-wide)" # Optional; this sets the remote's user-facing name in graphical frontends like GNOME Software
   install:
-  - com.mattjakeman.ExtensionManager
-  remove:
-  - org.gnome.Contacts
-  - org.gnome.Weather
+  # System
+  - org.gnome.FileRoller
+  - org.gnome.NautilusPreviewer
+  - org.gnome.clocks
+  - org.gnome.font-viewer
   - org.gnome.Maps
+  - org.gnome.Loupe
+  - org.gnome.DejaDup
+  - org.gnome.World.Secrets
+  - org.gnome.Connections
+  - org.gnome.Epiphany
+  - org.gnome.Snapshot
+  - net.nokyan.Resources
+  - com.mattjakeman.ExtensionManager
+  - com.belmoussaoui.Authenticator
+  # Office
+  - org.gnome.TextEditor
+  - org.gnome.Calculator
+  - org.gnome.Evince
+  - org.gnome.Contacts
+  - org.onlyoffice.desktopeditors
+  - org.gnome.Calendar
+  #Entertaiment 
+  - org.gnome.Showtime
+  - org.gnome.Podcasts
+  # Others
+  - dev.Cogitri.Health
+  remove:
+  - org.gnome.Weather
+
