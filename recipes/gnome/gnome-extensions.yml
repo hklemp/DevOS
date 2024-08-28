@@ -1,3 +1,4 @@
 type: gnome-extensions
 install:
-    - just-perfection-desktopjust-perfection.v28
+    - dash-to-dock.v95
+    - airpod-battery-monitor.v14
