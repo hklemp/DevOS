@@ -19,6 +19,7 @@ system:
   - net.nokyan.Resources
   - com.mattjakeman.ExtensionManager
   - com.belmoussaoui.Authenticator
+  - org.localsend.localsend_app
   # Office
   - org.gnome.TextEditor
   - org.gnome.Calculator
