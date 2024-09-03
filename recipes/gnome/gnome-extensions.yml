@@ -1,0 +1,4 @@
+type: gnome-extensions
+install:
+    - Dash to Dock
+    - Airpod Battery Monitor
