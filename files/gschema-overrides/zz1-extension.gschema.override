@@ -1,0 +1,3 @@
+[org/gnome/shell] 
+enabled-extensions=['Dash to Dock','Airpod Battery Monitor']
+
