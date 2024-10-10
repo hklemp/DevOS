@@ -16,4 +16,5 @@ modules:
   - from-file: intel-mac/mac-kmods.yml
   - from-file: gnome/gnome-flatpaks.yml
   - from-file: gnome/gnome-extensions.yml
+  - from-file: gnome/gnome-gschema-overrides.yml
   - type: signing
