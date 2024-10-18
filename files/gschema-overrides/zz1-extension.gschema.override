@@ -1,3 +1,2 @@
 [org/gnome/shell] 
-enabled-extensions=['Dash to Dock','Airpod Battery Monitor']
-
+enabled-extensions=['dash-to-dock@micxgx.gmail.com','Airpod-Battery-Monitor@maniacx.github.com']
