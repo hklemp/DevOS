@@ -1,7 +1,0 @@
-[org/gnome/desktop/app-folders]
-folder-children=['Web', 'Office', 'Work', 'Utilities', 'Accessories', 'Video', 'System', 'Graphics', 'Audio']
-
-[org/gnome/desktop/app-folders/folders/Web]
-name='Web'
-apps=['com.brave.Browser.desktop', 'com.google.Chrome.desktop', 'io.github.ungoogled_software.ungoogled_chromium.desktop', 'com.microsoft.Edge.desktop', 'org.mozilla.firefox.desktop', 'io.gitlab.librewolf-community.desktop', 'one.ablaze.floorp.desktop', 'com.opera.Opera.desktop', 'com.vivaldi.Vivaldi.desktop', 'io.github.zen_browser.zen.desktop']
-translate=true
