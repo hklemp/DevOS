@@ -14,6 +14,6 @@ podman run --pull always --rm ghcr.io/blue-build/cli:latest-installer | bash
 To test the build process use
 
 ```` bash
-bluebuild validate ./recipes/recipe.yml
-bluebuild build ./recipes/recipe.yml
+bluebuild validate ./recipes/intel-mac/gnome.yml
+bluebuild build ./recipes/intel-mac/gnome.yml
 ````
