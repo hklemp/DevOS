@@ -20,6 +20,7 @@ system:
   - com.mattjakeman.ExtensionManager
   - com.belmoussaoui.Authenticator
   - org.localsend.localsend_app
+  - com.github.tchx84.Flatseal
   # Office
   - org.gnome.TextEditor
   - org.gnome.Calculator
