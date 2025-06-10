@@ -1,7 +1,7 @@
 modules:
 - type: rpm-ostree
   repos:
-  - https://copr.fedorainfracloud.org/coprs/mulderje/facetimehd-kmod/repo/fedora-40/mulderje-facetimehd-kmod-fedora-40.repo
+  - https://copr.fedorainfracloud.org/coprs/mulderje/facetimehd-kmod/repo/fedora-42/mulderje-facetimehd-kmod-fedora-40.repo
 
 - type: akmods
   install:
