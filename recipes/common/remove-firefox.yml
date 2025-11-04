@@ -1,4 +1,6 @@
-type: rpm-ostree
+type: dnf
 remove:
-  - firefox
-  - firefox-langpacks
+  auto-remove: true
+  packages:
+    - firefox
+    - firefox-langpacks

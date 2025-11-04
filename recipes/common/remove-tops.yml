@@ -1,4 +1,6 @@
-type: rpm-ostree
+type: dnf
 remove:
-  - htop
-  - nvtop
+  auto-remove: true
+  packages:
+    - htop
+    - nvtop
